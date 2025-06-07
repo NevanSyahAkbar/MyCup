@@ -205,7 +205,7 @@ export default function HomeScreen() {
           <View style={styles.headerTop}>
             <View>
               <Text style={styles.greeting}>Good Morning ☀️</Text>
-              <Text style={styles.username}>Sarah</Text>
+              <Text style={styles.username}>Nevan</Text>
             </View>
             <TouchableOpacity style={styles.notificationButton} onPress={handleNotifications}>
               <Bell size={24} color="#374151" />
