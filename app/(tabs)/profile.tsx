@@ -140,8 +140,8 @@ export default function ProfileScreen() {
               style={styles.profileImage}
             />
             <View style={styles.profileDetails}>
-              <Text style={styles.profileName}>Sarah Johnson</Text>
-              <Text style={styles.profileEmail}>sarah.johnson@email.com</Text>
+              <Text style={styles.profileName}>Nevan Syah Akbar</Text>
+              <Text style={styles.profileEmail}>nevansyahakbar@email.com</Text>
               <View style={styles.membershipBadge}>
                 <Star size={14} color="#FCD34D" fill="#FCD34D" />
                 <Text style={styles.membershipText}>Gold Member</Text>
